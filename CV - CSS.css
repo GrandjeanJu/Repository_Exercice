@@ -6,7 +6,7 @@
 }
 .description, strong
 {
-    color: brown;
+    color: yellow;
 }
 /* pour que les textes identifiés par les balises <strong> soit écrit en bleu ainsi que la ou il y a l'attribut class="introduction" dans n'importe quel balise du fichier html*/
 a 
