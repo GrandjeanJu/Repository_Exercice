@@ -1,0 +1,46 @@
+*
+{
+	font-family: "calibri";
+	text-align: justify;
+	background-color: #ffe6b3
+}
+.description, strong
+{
+    color: brown;
+}
+/* pour que les textes identifiés par les balises <strong> soit écrit en bleu ainsi que la ou il y a l'attribut class="introduction" dans n'importe quel balise du fichier html*/
+a 
+{
+	text-decoration: none;
+	color:brown;
+}
+header
+{
+	display: flex;
+	justify-content: space-between;
+
+}
+header img
+{
+	margin-right:10px;
+	border:1px solid black;
+}
+header div
+{
+	margin-left:70px;
+}
+section h2
+{
+	border: 1px solid black;
+	margin :5px;
+	border-radius: 8px;
+	background:#ffb366;
+}
+section h2
+{
+	padding-left: 10px
+}
+h1
+{
+	text-align: center
+}
